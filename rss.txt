@@ -1,0 +1,7 @@
+http://rss.mkm.szczecin.pl/szczecin.xml     /////komunikacja
+
+
+http://szczecin.naszemiasto.pl/rss/artykuly/1.xml  ////wydarzenia 
+
+
+http://24kurier.pl/rss?dzial=wiadomosci //// wiadomosci
